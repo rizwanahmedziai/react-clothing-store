@@ -24,4 +24,5 @@ yarn-error.log*
 
 # private
 /src/firebase/firebase.utils.js
+/src/firebase/
 
